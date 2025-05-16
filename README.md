@@ -6,7 +6,7 @@ This repo contains the solution to the problem sets.
 - [Week 1: Conditionals](#week1)
 - [Week 2: Loops](#week2)
 - [Week 3: Exceptions](#week3)
-- [Week 4: Libraries](#week4)
+- [Week 4: Libraries](#Week-4:-Libraries)
 ...
 - Week 9:
 
