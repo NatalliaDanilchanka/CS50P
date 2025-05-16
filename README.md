@@ -42,7 +42,7 @@ print(x)
 
 ***
 
-### Week 1: Loops
+### Week 1: Conditionals
 
 Link to Problem Set 1: https://cs50.harvard.edu/python/2022/psets/1/
 
@@ -50,3 +50,8 @@ Deep Thought
 ```python
 
 ```
+
+
+### Week 2: Loops
+### Week 3: Exceptions
+### Week 4: Libraries
