@@ -2,11 +2,11 @@
 
 This repo contains the solution to the problem sets.
 
-- [Week 0: Functions, Variables](#week0)
-- [Week 1: Conditionals](#week1)
-- [Week 2: Loops](#week2)
-- [Week 3: Exceptions](#week3)
-- [Week 4: Libraries](#Week-4:-Libraries)
+- [Week 0: Functions, Variables](#week-0-functions-variables)
+- [Week 1: Conditionals](#week-1-conditionals)
+- [Week 2: Loops](#week-2-loops)
+- [Week 3: Exceptions](#week-3-exceptions)
+- [Week 4: Libraries](#week-4-libraries)
 ...
 - Week 9:
 
